@@ -9,6 +9,8 @@
 
 获取地址：https://www.wwwoop.com/home/Index/projectInfo?goodsId=49&typeParam=2
 
+（开发不易，小偿获取，感谢理解~~~）
+
 ### 官网页面展示
 ![image](https://github.com/user-attachments/assets/5d0cf0cb-9fd7-4a2c-bd3c-7f4a6b18019e)
 
